@@ -1,23 +1,23 @@
 
 # BlockBase - Expense Tracker DApp
 
-## 👩‍💻 Created by: Karishma
+## Created by: karii
 Mentored by FEC
 
 ## ✅ Features Implemented
 - Solidity: `getMyName()` - lets a user retrieve their registered name.
 - JavaScript: Shows connected wallet address on the frontend.
 
-## 📸 Screenshot
-*See screenshot folder*
+## Screenshot
+See screenshot image
 
-## ⚙️ Technologies Used
+## Technologies Used
 - React.js
 - CSS
 - Solidity
 - Ethers.js + MetaMask
 
-## 📦 Installation & Run
+## Installation & Run
 ```bash
 npm install
 npm start
