@@ -1,0 +1,21 @@
+[
+    {
+        "inputs": [
+            {"internalType": "string", "name": "_label", "type": "string"},
+            {"internalType": "address[]", "name": "_participants", "type": "address[]"},
+            {"internalType": "uint256[]", "name": "_amountsPaid", "type": "uint256[]"},
+            {"internalType": "uint256[]", "name": "_amountsOwed", "type": "uint256[]"}
+        ],
+        "name": "addExpense",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "getMyName",
+        "outputs": [{"internalType": "string", "name": "", "type": "string"}],
+        "stateMutability": "view",
+        "type": "function"
+    }
+]
